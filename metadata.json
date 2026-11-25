@@ -1,0 +1,6 @@
+{
+  "name": "Leapordsee Yala",
+  "description": "Luxury wildlife safaris, ethical leopard tracking, and private custom 4x4 jeep expeditions in Yala National Park, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
